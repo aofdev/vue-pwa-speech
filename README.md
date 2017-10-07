@@ -2,7 +2,7 @@
 
 > A Vue2 Google Cloud Speech with Progressive Web App
 
-![alt tag](https://i.imgur.com/4cKqLID.png)
+![alt tag](https://i.imgur.com/atntNle.png)
 
 
 ## Config
