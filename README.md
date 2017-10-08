@@ -1,6 +1,6 @@
 # vue-speech
 
-> A Vue2 Google Cloud Speech with Progressive Web App
+> A Vue2 Performs synchronous speech recognition with Google Cloud Speech on Progressive Web App
 
 ![alt tag](https://i.imgur.com/atntNle.png)
 
