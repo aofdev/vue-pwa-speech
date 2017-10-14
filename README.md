@@ -23,7 +23,7 @@ apiKey: ""
 git clone git@github.com:aofdev/vue-pwa-speech.git
 
 # Cd project
-cd vue-firebase-auth-vuex
+cd vue-pwa-speech
 
 # install dependencies
 npm install || yarn install
