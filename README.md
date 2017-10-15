@@ -35,4 +35,7 @@ npm run dev || yarn dev
 npm run build || yarn build
 
 ```
+## Other related projects
+### Streaming Recognition
+> Returns recognition results while the user is still speaking  [vue-speech-streaming](https://github.com/aofdev/vue-speech-streaming) 
 
