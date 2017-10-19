@@ -567,16 +567,16 @@
         // Recorder initialised
       },
       startRecording() {
+        // Start Recording
         recorder && recorder.record();
         this.result = false;
         this.btn = false;
         this.btnStop = true;
-  
-        // Start Recording
+        setTimeout(this.stopRecording(), 58000)
+      
       },
       stopRecording() {
         recorder && recorder.stop();
-  
         this.btnStop = false;
         this.loader = true;
         // Stopped Recording
