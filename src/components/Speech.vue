@@ -573,17 +573,14 @@
         this.btn = false;
         this.btnStop = true;
         setTimeout(this.stopRecording(), 58000)
-      
       },
       stopRecording() {
+        // Stopped Recording
         recorder && recorder.stop();
         this.btnStop = false;
         this.loader = true;
-        // Stopped Recording
-  
         // create WAV download link using audio data blob
         this.processRecording();
-  
         recorder.clear();
       },
       processRecording() {
