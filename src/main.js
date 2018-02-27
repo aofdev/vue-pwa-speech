@@ -2,7 +2,7 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
 import Vuetify from 'vuetify'
-import App from './App'
+const App = () => import('./App')
 import router from './router'
 Vue.use(Vuetify)
 require('../node_modules/vuetify/dist/vuetify.min.css')
