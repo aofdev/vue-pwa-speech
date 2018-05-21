@@ -1,5 +1,5 @@
 # vue-speech
-
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C9L4PNA5WH3LW)
 > A Vue2 Performs synchronous speech recognition with Google Cloud Speech on Progressive Web App
 
 ![alt tag](https://i.imgur.com/atntNle.png)
