@@ -572,7 +572,7 @@
         this.result = false;
         this.btn = false;
         this.btnStop = true;
-        setTimeout(this.stopRecording(), 58000)
+        setTimeout(this.stopRecording, 58000)
       },
       stopRecording() {
         // Stopped Recording
